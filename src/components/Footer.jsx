@@ -113,7 +113,7 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="/">
+              <a href="https://www.instagram.com/ramos_the.beast/">
                 <AiFillInstagram className="w-6 h-auto" />
               </a>
             </li>

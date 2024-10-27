@@ -13,7 +13,8 @@ import {
 import { BiParagraph } from "react-icons/bi";
 import { FiCode } from "react-icons/fi";
 import { MdOutlineLayersClear } from "react-icons/md";
-import { PiCodeBlock, PiQuotes, PiImageSquareBold } from "react-icons/pi";
+import { PiQuotes, PiCodeBlock, PiImageSquareBold } from "react-icons/pi";
+// import { PiCodeBlock, PiQuotes, PiImageSquareBold } from "react-icons/";
 import { TbSpacingVertical } from "react-icons/tb";
 
 const MenuBar = ({ editor }) => {

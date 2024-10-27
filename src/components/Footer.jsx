@@ -4,6 +4,7 @@ import {
   AiFillYoutube,
   AiFillInstagram,
   AiFillHeart,
+  AiFillLinkedin,
 } from "react-icons/ai";
 import { FaFacebook } from "react-icons/fa";
 import { BsTelegram } from "react-icons/bs";
@@ -102,7 +103,7 @@ const Footer = () => {
             </li>
             <li>
               <a href="/">
-                <AiFillYoutube className="w-6 h-auto" />
+                <AiFillLinkedin className="w-6 h-auto" />
               </a>
             </li>
             <li>

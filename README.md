@@ -1,8 +1,8 @@
-# 🌐 **Ehfy - The Community Hub for Conversations**  
+# 🌐 **Ehya - The Community Hub for Conversations**  
 
-Welcome to **Ehfy**, an interactive and intuitive forum platform where users engage through conversations in the form of posted messages. Whether it’s asking questions, sharing insights, or building a vibrant community, Ehfy ensures seamless discussions in a modern environment.  
+Welcome to **Ehya**, an interactive and intuitive forum platform where users engage through conversations in the form of posted messages. Whether it’s asking questions, sharing insights, or building a vibrant community, Ehfy ensures seamless discussions in a modern environment.  
 
-**Live Site:** [Ehfy Forum](https://blog-management-frontend-crafted.onrender.com)  
+**Live Site:** [Ehya Forum](https://blog-management-frontend-crafted.onrender.com)  
 **Admin Login Email:** `fahimnirjon21@gmail.com`  
 **Admin Password:** `Nirjon04??`  
 

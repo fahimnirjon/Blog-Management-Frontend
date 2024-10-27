@@ -122,7 +122,7 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="https://t.me/Fahim_Nirjon04">
                 <BsTelegram className="w-6 h-auto" />
               </a>
             </li>

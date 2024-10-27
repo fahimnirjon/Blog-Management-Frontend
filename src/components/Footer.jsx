@@ -103,7 +103,7 @@ const Footer = () => {
               </a>
             </li>
           <li>
-              <a href="/">
+              <a href="">
                 <AiFillGithub className="w-6 h-auto" />
               </a>
             </li>

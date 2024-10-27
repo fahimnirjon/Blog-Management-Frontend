@@ -117,7 +117,7 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="https://www.facebook.com/fahimshahriar.nirjon/">
                 <FaFacebook className="w-6 h-auto" />
               </a>
             </li>

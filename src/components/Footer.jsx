@@ -5,6 +5,7 @@ import {
   AiFillInstagram,
   AiFillHeart,
   AiFillLinkedin,
+  AiFillGithub,
 } from "react-icons/ai";
 import { FaFacebook } from "react-icons/fa";
 import { BsTelegram } from "react-icons/bs";
@@ -96,14 +97,19 @@ const Footer = () => {
             Build a modern and creative website with Fahim Nirjon
           </p>
           <ul className="flex justify-center items-center mt-5 space-x-4 text-gray-300 md:justify-start">
-            <li>
+          <li>
               <a href="/">
-                <AiOutlineTwitter className="w-6 h-auto" />
+                <AiFillLinkedin className="w-6 h-auto" />
+              </a>
+            </li>
+          <li>
+              <a href="/">
+                <AiFillGithub className="w-6 h-auto" />
               </a>
             </li>
             <li>
-              <a href="/">
-                <AiFillLinkedin className="w-6 h-auto" />
+              <a href="https://x.com/Fahim_Nirjon04">
+                <AiOutlineTwitter className="w-6 h-auto" />
               </a>
             </li>
             <li>

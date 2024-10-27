@@ -98,7 +98,7 @@ const Footer = () => {
           </p>
           <ul className="flex justify-center items-center mt-5 space-x-4 text-gray-300 md:justify-start">
           <li>
-              <a href="">
+              <a href="https://www.linkedin.com/in/fahimnirjon04">
                 <AiFillLinkedin className="w-6 h-auto" />
               </a>
             </li>
